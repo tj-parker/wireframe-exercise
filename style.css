@@ -1,0 +1,56 @@
+header {
+    background-color: #505050;
+}
+
+nav * {
+    position: relative;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    font-family: Arial, Verdana, sans-serif;
+    color: rgb(165, 165, 165);
+}
+
+li {
+    display: inline-block;
+    margin: 30px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+img {
+    margin: 15px;
+}
+
+#scroll {
+    width: 47%;
+    overflow: scroll;
+    height: 350px;
+    position: relative;
+    float: right;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+p {
+    font-style: italic;
+}
+
+#feature {
+    position: relative;
+    float: left;
+}
+footer {
+    background-color: #505050;
+}
